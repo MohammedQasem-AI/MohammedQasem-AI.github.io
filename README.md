@@ -1,2 +1,16 @@
-# MohammedQasem-AI.github.io
-My personal portfolio website — built with HTML, CSS, and JavaScript as I learn web development.
+# Personal Portfolio Website
+
+My personal portfolio built with HTML, CSS, and JavaScript.
+
+## Live site
+https://MohammedQasem-AI.github.io
+
+## What's included
+- About Me
+- Projects
+- Skills
+- Certifications
+- Contact
+
+## Notes
+This is my first web development project. I am still learning and updating it over time.
