@@ -3,7 +3,7 @@
 My personal portfolio built with HTML, CSS, and JavaScript.
 
 ## Live site
-https://MohammedQasem-AI.github.io
+https://mohammedqasem-al.github.io
 
 ## What's included
 - About Me
